@@ -1,0 +1,70 @@
+C:\Users\Administrator\Documents\ShotPuzzleGame\Assets\Scripts\Blocks\Block.cs
+OnCollisionEnter2D 70
+OnCollisionEnter2D 78
+
+C:\Users\Administrator\Documents\ShotPuzzleGame\Assets\Scripts\Manager\BlockManager.cs
+Start 5
+Start 0
+SubscribeToEvent 4
+SubscribeToEvent 15
+DecreaseBlockCount 5
+DecreaseBlockCount 0
+WaitBeforeLoadingNextScene 2
+WaitBeforeLoadingNextScene 0
+ResetAllBlocks 2
+ResetAllBlocks 0
+
+C:\Users\Administrator\Documents\ShotPuzzleGame\Assets\Scripts\Manager\InputManager.cs
+Update 2
+Update 0
+WriteInputData 2
+WriteInputData 15
+
+C:\Users\Administrator\Documents\ShotPuzzleGame\Assets\Scripts\Player\PlayerController.cs
+Start 2
+Start 0
+GetComponents 2
+GetComponents 0
+Update 1
+Update 0
+HandleMovements 1
+HandleMovements 0
+CalculateDirection 3
+CalculateDirection 0
+MovePlayerInDirection 2
+MovePlayerInDirection 15
+ResetPlayerPosition 2
+ResetPlayerPosition 0
+OnCollisionEnter2D 5
+OnCollisionEnter2D 0
+CheckIfhitBlock 6
+CheckIfhitBlock 0
+
+C:\Users\Administrator\Documents\ShotPuzzleGame\Assets\Scripts\Player\PlayerVFX.cs
+Start 2
+Start 0
+GetComponents 2
+GetComponents 0
+InitPulesEffectVariables 2
+InitPulesEffectVariables 0
+SpawnDots 6
+SpawnDots 0
+SetDotPosition 3
+SetDotPosition 0
+ChangeDotActiveState 2
+ChangeDotActiveState 0
+SetDotsStartPos 2
+SetDotsStartPos 0
+MakeBallPulse 3
+MakeBallPulse 0
+ResetBallSize 2
+ResetBallSize 0
+ChangeTrailState 2
+ChangeTrailState 0
+
+C:\Users\Administrator\Documents\ShotPuzzleGame\Assets\Scripts\ScenesManager.cs
+LoadNextScene 2
+LoadNextScene 0
+
+C:\Users\Administrator\Documents\ShotPuzzleGame\Assets\Scripts\ScriptableObjects\InputData.cs
+

@@ -97,7 +97,7 @@
             m_Cam = FindObjectOfType<Camera>();
 
         }
-        
+
         /// <summary>
         /// Calls on every frame.
         /// </summary>

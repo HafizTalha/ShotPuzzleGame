@@ -1,0 +1,25 @@
+File name	Line	Function	Duration[ms]	Explored nodes
+C:\Users\Administrator\Documents\ShotPuzzleGame\Assets\Scripts\Manager\BlockManager.cs	12	_oneshotpuzzle.BlockManager.Start$$	0	3
+C:\Users\Administrator\Documents\ShotPuzzleGame\Assets\Scripts\Manager\BlockManager.cs	30	_oneshotpuzzle.BlockManager.DecreaseBlockCount$$	0	5
+C:\Users\Administrator\Documents\ShotPuzzleGame\Assets\Scripts\Blocks\Block.cs	20	_oneshotpuzzle.Block.OnCollisionEnter2D$UnityEngine.Collision2D$	0	7
+C:\Users\Administrator\Documents\ShotPuzzleGame\Assets\Scripts\Manager\InputManager.cs	14	_oneshotpuzzle.InputManager.Update$$	0	3
+C:\Users\Administrator\Documents\ShotPuzzleGame\Assets\Scripts\Manager\InputManager.cs	24	_oneshotpuzzle.InputManager.WriteInputData$$	0	3
+C:\Users\Administrator\Documents\ShotPuzzleGame\Assets\Scripts\Player\PlayerController.cs	80	_oneshotpuzzle.PlayerController.Start$$	0	3
+C:\Users\Administrator\Documents\ShotPuzzleGame\Assets\Scripts\Player\PlayerController.cs	91	_oneshotpuzzle.PlayerController.GetComponents$$	0	3
+C:\Users\Administrator\Documents\ShotPuzzleGame\Assets\Scripts\Player\PlayerController.cs	103	_oneshotpuzzle.PlayerController.Update$$	0	3
+C:\Users\Administrator\Documents\ShotPuzzleGame\Assets\Scripts\Player\PlayerController.cs	174	_oneshotpuzzle.PlayerController.CalculateDirection$$	0	3
+C:\Users\Administrator\Documents\ShotPuzzleGame\Assets\Scripts\Player\PlayerController.cs	179	_oneshotpuzzle.PlayerController.MovePlayerInDirection$$	0	3
+C:\Users\Administrator\Documents\ShotPuzzleGame\Assets\Scripts\Player\PlayerController.cs	184	_oneshotpuzzle.PlayerController.ResetPlayerPosition$$	0	3
+C:\Users\Administrator\Documents\ShotPuzzleGame\Assets\Scripts\Player\PlayerController.cs	191	_oneshotpuzzle.PlayerController.OnCollisionEnter2D$UnityEngine.Collision2D$	0	5
+C:\Users\Administrator\Documents\ShotPuzzleGame\Assets\Scripts\Player\PlayerController.cs	205	_oneshotpuzzle.PlayerController.CheckIfhitBlock$$	0	2
+C:\Users\Administrator\Documents\ShotPuzzleGame\Assets\Scripts\Player\PlayerVFX.cs	82	_oneshotpuzzle.PlayerVFX.Start$$	0	3
+C:\Users\Administrator\Documents\ShotPuzzleGame\Assets\Scripts\Player\PlayerVFX.cs	101	_oneshotpuzzle.PlayerVFX.GetComponents$$	0	3
+C:\Users\Administrator\Documents\ShotPuzzleGame\Assets\Scripts\Player\PlayerVFX.cs	111	_oneshotpuzzle.PlayerVFX.InitPulesEffectVariables$$	0	3
+C:\Users\Administrator\Documents\ShotPuzzleGame\Assets\Scripts\Player\PlayerVFX.cs	123	_oneshotpuzzle.PlayerVFX.SpawnDots$$	8	403
+C:\Users\Administrator\Documents\ShotPuzzleGame\Assets\Scripts\Player\PlayerVFX.cs	142	_oneshotpuzzle.PlayerVFX.SetDotPosition$UnityEngine.Vector3.UnityEngine.Vector3$	10	403
+C:\Users\Administrator\Documents\ShotPuzzleGame\Assets\Scripts\Player\PlayerVFX.cs	161	_oneshotpuzzle.PlayerVFX.ChangeDotActiveState$bool$	8	403
+C:\Users\Administrator\Documents\ShotPuzzleGame\Assets\Scripts\Player\PlayerVFX.cs	174	_oneshotpuzzle.PlayerVFX.SetDotsStartPos$UnityEngine.Vector3$	11	403
+C:\Users\Administrator\Documents\ShotPuzzleGame\Assets\Scripts\Player\PlayerVFX.cs	187	_oneshotpuzzle.PlayerVFX.MakeBallPulse$$	0	3
+C:\Users\Administrator\Documents\ShotPuzzleGame\Assets\Scripts\Player\PlayerVFX.cs	199	_oneshotpuzzle.PlayerVFX.ResetBallSize$$	0	3
+C:\Users\Administrator\Documents\ShotPuzzleGame\Assets\Scripts\Player\PlayerVFX.cs	211	_oneshotpuzzle.PlayerVFX.ChangeTrailState$bool.float$	0	3
+C:\Users\Administrator\Documents\ShotPuzzleGame\Assets\Scripts\ScenesManager.cs	15	_oneshotpuzzle.ScenesManager.LoadNextScene$$	0	5

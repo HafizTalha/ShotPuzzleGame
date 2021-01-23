@@ -1,4 +1,4 @@
-﻿ namespace oneshotpuzzle
+﻿namespace oneshotpuzzle
 {
     using UnityEngine;
 
@@ -20,4 +20,4 @@
         public bool isReleased;
 
     }
-} 
+}

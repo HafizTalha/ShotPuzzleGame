@@ -15,7 +15,7 @@
         /// </summary>
         public static void LoadNextScene()
         {
-            if (SceneManager.GetActiveScene().buildIndex < 4)
+            if (SceneManager.GetActiveScene().buildIndex < 5)
             {
                 SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
             }
