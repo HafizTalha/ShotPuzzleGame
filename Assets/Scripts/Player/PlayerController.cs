@@ -3,6 +3,7 @@
 
     using UnityEngine;
     using System;
+    using System.Linq;
 
     /// <summary>
     /// The player controller class includes all the functionalities for 
@@ -94,7 +95,8 @@
             m_rigidbody2D = GetComponent<Rigidbody2D>();
             m_PlayerVFX = GetComponent<PlayerVFX>();
 
-            m_Cam = FindObjectOfType<Camera>();
+            GameObject CameraGO = (Resources.FindObjectsOfTypeAll(typeof(GameObject)) as GameObject[])?.FirstOrDefault(x => x.name == "Main Camera") ?? new GameObject();
+            m_Cam = CameraGO.GetComponent<Camera>();
 
         }
 
