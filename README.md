@@ -20,3 +20,5 @@ Used following command line arguments in jenkins unity plugins. [-nographics -ba
 
 10. Used Functional Programming in PlayerController Script by using system.Linq (Library). Basically we can find the game object of the main camera, then we get the camera components. The PlayerController scripts for the subject game can be found at
 https://github.com/HafizTalha/ShotPuzzleGame/tree/master/Assets/Scripts/Player
+
+The complete documentation can be found under ShotPuzzleGame/Documentation/
