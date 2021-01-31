@@ -1,4 +1,5 @@
 **Short Puzzle Game**
+
 The concept of shotpuzzle game or One shot Puzzle is to hit all the blocks by just one click. For further understanding I uploaded Game demo video which can be found at `ShotPuzzleGame/Documentation/ShotPuzzleGame Demo.mp4`
 
 1. UML diagram can be found at repository under `ShotPuzzleGame/Documentation/UML Diagrams` (2 Snapshots).
