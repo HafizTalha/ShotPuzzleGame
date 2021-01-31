@@ -7,7 +7,7 @@
 4. The code is commented and available at repository in ShotpuzzleGame. The clean code scripts for the subject game can be found at
 https://github.com/HafizTalha/ShotPuzzleGame/tree/master/Assets/Scripts
 
-5. Unity has its own build system. Used Unity build process for building the ShortPuzzleGame game.
+5. Unity has its own build system. Used Unity build process for building the ShortPuzzleGame.
 
 6. I Integrated a Unit test about score calculation. Unit Test snapshots can be found at repository ShotPuzzleGame/Documentation/Unit Test.
 
@@ -18,7 +18,7 @@ Used following command line arguments in jenkins unity plugins. [-nographics -ba
 
 9. N/A
 
-10. Used Functional Programming in PlayerController Script by using system.Linq (Library). Basically we can find the game object of the main camera, then we get the camera components. The PlayerController scripts for the subject game can be found at
+10. Used Functional Programming in PlayerController Script. By using system.Linq (Library) we can find the game object of the main camera, then we get the camera components. The PlayerController scripts for the subject game can be found at
 https://github.com/HafizTalha/ShotPuzzleGame/tree/master/Assets/Scripts/Player
 
 The complete documentation can be found under ShotPuzzleGame/Documentation/
