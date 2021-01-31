@@ -1,8 +1,9 @@
+**Short Puzzle Game**
 1. UML diagram can be found at repository under ShotPuzzleGame/Documentation/UML Diagrams (2 Snapshots).
 
 2. N/A
 
-3. Metrics (Sonarcube) can be found at repository under ShotPuzzleGame/Documentation/Metrics-Sonarqube (5 Snapshots).
+3. Metrics (Sonarcube) can be found at repository under *ShotPuzzleGame/Documentation/Metrics-Sonarqube* (5 Snapshots).
 
 4. The code is commented and available at repository in ShotpuzzleGame. The clean code scripts for the subject game can be found at
 https://github.com/HafizTalha/ShotPuzzleGame/tree/master/Assets/Scripts
