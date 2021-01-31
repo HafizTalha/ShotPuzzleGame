@@ -10,10 +10,10 @@ https://github.com/HafizTalha/ShotPuzzleGame/tree/master/Assets/Scripts
 
 5. Unity has its own build system. Used Unity build process for building the ShortPuzzleGame.
 
-6. I Integrated a Unit test about score calculation. Unit Test snapshots can be found at repository `ShotPuzzleGame/Documentation/Unit Test.
+6. I Integrated a Unit test about score calculation. Unit Test snapshots can be found at repository `ShotPuzzleGame/Documentation/Unit Test`.
 
-7. For continous delivery, I used jenkins and made pipline on jenkins local server. snapshots for jenkins build process can be found at repository under `ShotPuzzleGame/Documentation/Jenkins Build.
-Used following command line arguments in jenkins unity plugins. [-nographics -batchmode -quit -executeMethod BuildScript.PerformBuild -logFile "$WORKSPACE/unity3d_editor.log"]
+7. For continous delivery, I used jenkins and made pipline on jenkins local server. snapshots for jenkins build process can be found at rep`ository under `ShotPuzzleGame/Documentation/Jenkins Build`.
+Used following command line arguments in jenkins unity plugins. `[-nographics -batchmode -quit -executeMethod BuildScript.PerformBuild -logFile "$WORKSPACE/unity3d_editor.log"]`
 
 8.  Used visualstudio for code development. The favorite shortcut keys are following: Find all refrences Shift+F12 Go to implementation Ctrl+F12 For selecting all Ctrl+a For format Ctrl+k For comment Ctrl+k+c For uncomment Ctrl+k+u
 
